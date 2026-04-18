@@ -87,4 +87,4 @@ docker compose logs -f bot
 		
 ## Credits
 
-* Helped with development advice and repository structure : [RythonDev] (https://github.com/liyunze-coding)
+* Helped with development advice and repository structure : [RythonDev](https://github.com/liyunze-coding)
