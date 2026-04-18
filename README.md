@@ -1,7 +1,9 @@
-# Discord Verification Bot  
+# Discord Verification Bot - Depreciated  
 **Verifies Club Membership Automatically**
 
 ---
+## Preface
+This repository was used as a base on how discord verification can be done using modals. This verification process was converted and implemented into the pre-existing DSEC bot made in Rust. Credits to [Ryan](https://github.com/liyunze-coding) for his efforts implementing the logic into the DSEC bot and collaborating with me.
 
 ## Overview
 This Discord Verification Bot is an open-source project designed to automatically verify student club members using data stored in a connected database. It streamlines the onboarding process by checking membership details such as **Full Name** and **Student ID** securely and efficiently via discord's modals.
